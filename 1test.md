@@ -1,10 +1,10 @@
-1test
+Presentation1
 ========================================================
-author: Sotiria
-date: 
+author: Sotiria Efraimia Fragkiadaki
+date: 14/32019
 autosize: true
 
-First Slide
+Introduction
 ========================================================
 
 For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
@@ -13,7 +13,7 @@ For more details on authoring R presentations please visit <https://support.rstu
 - Bullet 2
 - Bullet 3
 
-Slide With Code
+Methods
 ========================================================
 
 
@@ -31,7 +31,7 @@ summary(cars)
  Max.   :25.0   Max.   :120.00  
 ```
 
-Slide With Plot
+Proposed Analyses
 ========================================================
 
 ![plot of chunk unnamed-chunk-2](1test-figure/unnamed-chunk-2-1.png)
